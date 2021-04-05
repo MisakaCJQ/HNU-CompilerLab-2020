@@ -1,0 +1,15 @@
+{sample program 2
+cpmpute a+b*c
+}
+read a;
+read b;
+read c;
+if 0 < a th*en
+	temp := 0;
+	temp := b * c;
+	temp := temp + a;
+	wr$ite temp
+else
+	temp := 1;
+	write temp
+end
